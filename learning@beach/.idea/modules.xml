@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/anshulbajpai-syntax-highlighting-4df9bc16d718/anshulbajpai-syntax-highlighting-4df9bc16d718/Anshulbajpai-syntax-highlighting-4df9bc16d718.iml" filepath="$USER_HOME$/Downloads/anshulbajpai-syntax-highlighting-4df9bc16d718/anshulbajpai-syntax-highlighting-4df9bc16d718/Anshulbajpai-syntax-highlighting-4df9bc16d718.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DailyAdviceClient/DailyAdviceClient.iml" filepath="$PROJECT_DIR$/DailyAdviceClient/DailyAdviceClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunnelTest/FunnelTest.iml" filepath="$PROJECT_DIR$/FunnelTest/FunnelTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathWorks/MathWorks.iml" filepath="$PROJECT_DIR$/MathWorks/MathWorks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewHighlighterStories/NewHighlighterStories.iml" filepath="$PROJECT_DIR$/NewHighlighterStories/NewHighlighterStories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewMathWorks/NewMathWorks.iml" filepath="$PROJECT_DIR$/NewMathWorks/NewMathWorks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SchoolSystem/SchoolSystem.iml" filepath="$PROJECT_DIR$/SchoolSystem/SchoolSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTacToeGame/TicTacToeGame.iml" filepath="$PROJECT_DIR$/TicTacToeGame/TicTacToeGame.iml" />
+    </modules>
+  </component>
+</project>
+

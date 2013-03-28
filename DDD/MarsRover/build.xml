@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="Mars Rover Assignment" default="distribute">
+
+    <property name="mainDir" value="src/main" />
+    <property name="mainLib" value="${mainDir}/lib" />
+    <property name="testDir" value="src/test" />
+    <property name="testLib" value="${testDir}/lib" />
+    <property name="buildDir" value="build" />
+    <property name="classesDir" value="${buildDir}/classes" />
+    <property name="distributionDir" value="${buildDir}/distribute" />
+
+    <path id="class.path">
+        <fileset dir="${mainLib}"></fileset>
+        <fileset dir="${testLib}"></fileset>
+    </path>
+
+    <target name="clean" description="cleaning">
+        <echo message="Cleaning up!"></echo>
+        <delete dir="${buildDir}" includeemptydirs="true" />
+        <mkdir dir="${buildDir}" />
+        <mkdir dir="${distributionDir}" />
+        <mkdir dir="${classesDir}" />
+    </target>
+
+    <target name="compile">
+        <javac srcdir="${mainDir}" destdir="${classesDir}" classpathref="class.path"></javac>
+        <javac srcdir="${testDir}" destdir="${classesDir}" classpathref="class.path"></javac>
+    </target>
+
+    <target name="test">
+
+    </target>
+
+    <target name="distribute" depends="clean">
+        <echo message="Distributing ${ant.project.name}.jar"></echo>
+    </target>
+
+</project>
