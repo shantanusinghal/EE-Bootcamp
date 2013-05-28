@@ -1,0 +1,2 @@
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumerals\bin\Debug\RomanNumerals.exe.config
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumerals\bin\Debug\RomanNumbers.exe.config

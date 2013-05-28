@@ -1,0 +1,13 @@
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumeralSpecs\obj\Debug\RomanNumeralSpecs.csprojResolveAssemblyReference.cache
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumeralSpecs\bin\Debug\RomanNumeralSpecs.dll
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumeralSpecs\bin\Debug\RomanNumeralSpecs.pdb
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumeralSpecs\bin\Debug\nunit-console-runner.dll
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumeralSpecs\bin\Debug\nunit.core.dll
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumeralSpecs\bin\Debug\nunit.core.interfaces.dll
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumeralSpecs\bin\Debug\nunit.framework.dll
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumeralSpecs\bin\Debug\nunit.util.dll
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumeralSpecs\bin\Debug\Rhino.Mocks.dll
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumeralSpecs\bin\Debug\RomanNumbers.dll
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumeralSpecs\bin\Debug\RomanNumbers.pdb
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumeralSpecs\obj\Debug\RomanNumeralSpecs.dll
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumeralSpecs\obj\Debug\RomanNumeralSpecs.pdb

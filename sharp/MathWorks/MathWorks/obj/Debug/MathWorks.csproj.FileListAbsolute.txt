@@ -1,0 +1,12 @@
+C:\GitHub\sharp\MathWorks\MathWorks\bin\Debug\MathWorks.dll.config
+C:\GitHub\sharp\MathWorks\MathWorks\bin\Debug\MathWorks.dll
+C:\GitHub\sharp\MathWorks\MathWorks\bin\Debug\MathWorks.pdb
+C:\GitHub\sharp\MathWorks\MathWorks\obj\Debug\MathWorks.csprojResolveAssemblyReference.cache
+C:\GitHub\sharp\MathWorks\MathWorks\obj\Debug\MathWorks.dll
+C:\GitHub\sharp\MathWorks\MathWorks\obj\Debug\MathWorks.pdb
+C:\workspaces\sharp\MathWorks\MathWorks\bin\Debug\MathWorks.dll.config
+C:\workspaces\sharp\MathWorks\MathWorks\bin\Debug\MathWorks.dll
+C:\workspaces\sharp\MathWorks\MathWorks\bin\Debug\MathWorks.pdb
+C:\workspaces\sharp\MathWorks\MathWorks\obj\Debug\MathWorks.csprojResolveAssemblyReference.cache
+C:\workspaces\sharp\MathWorks\MathWorks\obj\Debug\MathWorks.dll
+C:\workspaces\sharp\MathWorks\MathWorks\obj\Debug\MathWorks.pdb

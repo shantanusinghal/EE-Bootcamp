@@ -1,0 +1,5 @@
+C:\workspaces\sharp\lol\lol\lol\bin\Debug\lol.exe.config
+C:\workspaces\sharp\lol\lol\lol\bin\Debug\lol.exe
+C:\workspaces\sharp\lol\lol\lol\bin\Debug\lol.pdb
+C:\workspaces\sharp\lol\lol\lol\obj\Debug\lol.exe
+C:\workspaces\sharp\lol\lol\lol\obj\Debug\lol.pdb

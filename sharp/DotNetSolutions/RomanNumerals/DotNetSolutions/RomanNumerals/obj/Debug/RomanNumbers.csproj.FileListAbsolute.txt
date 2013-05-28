@@ -1,0 +1,6 @@
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumerals\obj\Debug\RomanNumbers.csprojResolveAssemblyReference.cache
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumerals\bin\Debug\RomanNumbers.dll.config
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumerals\bin\Debug\RomanNumbers.dll
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumerals\bin\Debug\RomanNumbers.pdb
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumerals\obj\Debug\RomanNumbers.dll
+C:\workspaces\sharp\DotNetSolutions\RomanNumerals\DotNetSolutions\RomanNumerals\obj\Debug\RomanNumbers.pdb
