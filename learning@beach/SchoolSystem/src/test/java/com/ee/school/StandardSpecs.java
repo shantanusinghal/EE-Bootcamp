@@ -1,11 +1,5 @@
 package com.ee.school;
 
-import static org.mockito.Mockito.when;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 import org.fest.assertions.Assertions;
 import org.junit.Before;
 import org.junit.Test;
@@ -13,7 +7,12 @@ import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import org.mockito.runners.MockitoJUnitRunner;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 import static org.mockito.Mockito.verify;
+import static org.mockito.Mockito.when;
 
 @RunWith(MockitoJUnitRunner.class)
 public class StandardSpecs  {
@@ -56,7 +55,7 @@ public class StandardSpecs  {
 		List<Student> allStudents = standard.getAllStudents();
 		
 		//Then
-		 Assertions.assertThat(allStudents).contains(student1,student2); 
+        Assertions.assertThat(allStudents).contains(student1,student2);
 	}
 	@Test
 	public void itShouldReturnStudentsForAGivenDivision(){

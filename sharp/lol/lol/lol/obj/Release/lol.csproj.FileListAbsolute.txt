@@ -4,3 +4,9 @@ C:\workspaces\sharp\lol\lol\lol\bin\Release\lol.pdb
 C:\workspaces\sharp\lol\lol\lol\obj\Release\lol.exe
 C:\workspaces\sharp\lol\lol\lol\obj\Release\lol.pdb
 C:\workspaces\sharp\lol\lol\lol\obj\Release\lol.csprojResolveAssemblyReference.cache
+C:\workspaces\grepo\sharp\lol\lol\lol\bin\Release\lol.exe.config
+C:\workspaces\grepo\sharp\lol\lol\lol\obj\Release\lol.exe
+C:\workspaces\grepo\sharp\lol\lol\lol\obj\Release\lol.pdb
+C:\workspaces\grepo\sharp\lol\lol\lol\bin\Release\lol.exe
+C:\workspaces\grepo\sharp\lol\lol\lol\bin\Release\lol.pdb
+C:\workspaces\grepo\sharp\lol\lol\lol\obj\Release\lol.csprojResolveAssemblyReference.cache

@@ -8,6 +8,27 @@
     <file path="$PROJECT_DIR$/FunnelTest/test/com/ee/mathworks/conditions/MultipleOfFiveSpec.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1364389948240" ignored="false" />
     <file path="$PROJECT_DIR$/FunnelTest/test/com/ee/mathworks/conditions/OddConditionSpec.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1364389948240" ignored="false" />
     <file path="/MathWorksSpec.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1364413894649" ignored="false" />
+    <file path="/StandardSpecs.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375857721732" ignored="false" />
+    <file path="/*.regexp" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375857739327" ignored="false" />
+    <file path="/Dummy.txt" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1376373292014" ignored="false" />
+    <file path="/CollegeSecuritySpecs.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375875792648" ignored="false" />
+    <file path="/fragment.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375875727905" ignored="false" />
+    <file path="/IdReader.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375873043097" ignored="false" />
+    <file path="/SecuritySystemSpecs.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375877769370" ignored="false" />
+    <file path="/SecuritySystem.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375875462990" ignored="false" />
+    <file path="/DataStore.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375876175014" ignored="false" />
+    <file path="/ThumbIdReader.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375870918112" ignored="false" />
+    <file path="C:/DigitalLoyalty/src/groovy/com/ee/dl/repository/PromoRepository.groovy" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375871028149" ignored="false" />
+    <file path="/SchoolSpecs.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375871172447" ignored="false" />
+    <file path="C:/DigitalLoyalty/grails-app/controllers/com/ee/dl/controller/PromoController.groovy" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375874455166" ignored="false" />
+    <file path="/PromoController.groovy" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375874454628" ignored="false" />
+    <file path="/ReaderResponse.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375875753756" ignored="false" />
+    <file path="/Authenticator.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375877546144" ignored="false" />
+    <file path="/AuthenticatorSpecs.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375886488399" ignored="false" />
+    <file path="/Role.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375878221480" ignored="false" />
+    <file path="C:/DigitalLoyalty/grails-app/controllers/com/ee/dl/controller/UserController.groovy" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375875872886" ignored="false" />
+    <file path="/UserController.groovy" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375875868779" ignored="false" />
+    <file path="/CollegeDataStore.java" changelist="9fe5a9b1-22c9-4462-9876-3228cad72595" time="1375876222078" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,22 +43,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/MathWorks/test/MathWorksSpec.java" line="32" class="MathWorksSpec" package="">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -72,7 +77,24 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/MathWorks/test/MathWorksSpec.java" line="32" class="MathWorksSpec" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -82,38 +104,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DailyAdviceClient.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DailyAdviceClient/src/DailyAdviceClient.java">
+      <file leaf-file-name="SecuritySystemSpecs.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CollegeSecurity/src/test/java/com/ee/security/SecuritySystemSpecs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="751" selection-end="751" vertical-scroll-proportion="0.0">
+            <state line="41" column="94" selection-start="1171" selection-end="1175" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DailyAdviceServer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DailyAdviceClient/src/DailyAdviceServer.java">
+      <file leaf-file-name="SecuritySystem.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CollegeSecurity/src/main/java/com/ee/security/SecuritySystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="5" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.0">
+            <state line="9" column="0" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Numbers.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FunnelTest/src/com/ee/mathworks/Numbers.java">
+      <file leaf-file-name="Authenticator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CollegeSecurity/src/main/java/com/ee/security/Authenticator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="0" selection-start="958" selection-end="958" vertical-scroll-proportion="0.0">
+            <state line="4" column="0" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MathWorksSpec.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MathWorks/test/MathWorksSpec.java">
+      <file leaf-file-name="AuthenticatorSpecs.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CollegeSecurity/src/test/java/com/ee/security/AuthenticatorSpecs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="131" selection-start="805" selection-end="805" vertical-scroll-proportion="0.25757575">
-              <folding />
+            <state line="55" column="14" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.58928573">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,22 +152,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/MathWorks/src/OddNumberFilter.java" />
-        <option value="$PROJECT_DIR$/MathWorks/src/RangedNumberFilter.java" />
-        <option value="$PROJECT_DIR$/MathWorks/src/Numbers.java" />
-        <option value="$PROJECT_DIR$/MathWorks/src/NumberFilter.java" />
-        <option value="$USER_HOME$/Downloads/anshulbajpai-syntax-highlighting-4df9bc16d718/anshulbajpai-syntax-highlighting-4df9bc16d718/test/RuleSpecs.java" />
-        <option value="$PROJECT_DIR$/NewMathWorks/test/MathWorksSpec.java" />
-        <option value="$PROJECT_DIR$/src/NumberFilterTest.java" />
-        <option value="$PROJECT_DIR$/src/Numbers.java" />
-        <option value="$PROJECT_DIR$/src/Filter.java" />
-        <option value="$PROJECT_DIR$/NewMathWorks/src/Rule.java" />
-        <option value="$PROJECT_DIR$/NewMathWorks/src/Filter.java" />
-        <option value="$PROJECT_DIR$/NewMathWorks/src/Numbers.java" />
-        <option value="$PROJECT_DIR$/NewMathWorks/test/FilterSpec.java" />
-        <option value="$PROJECT_DIR$/Sample/test/addSpec.java" />
-        <option value="$PROJECT_DIR$/Sample/src/Numbers.java" />
-        <option value="$PROJECT_DIR$/MathWorks/test/MathWorksSpec.java" />
+        <option value="$PROJECT_DIR$/SchoolSystem/src/test/java/com/ee/school/StandardSpecs.java" />
+        <option value="$PROJECT_DIR$/CollegeSecurity/src/test/java/com/ee/security/CollegeSecuritySpecs.java" />
+        <option value="$PROJECT_DIR$/CollegeSecurity/src/main/java/com/ee/security/DataStore.java" />
+        <option value="$PROJECT_DIR$/CollegeSecurity/src/main/java/com/ee/security/CollegeDataStore.java" />
+        <option value="$PROJECT_DIR$/SchoolSystem/src/test/java/com/ee/school/SchoolSpecs.java" />
+        <option value="$PROJECT_DIR$/CollegeSecurity/src/main/java/com/ee/security/IdReader.java" />
+        <option value="$PROJECT_DIR$/CollegeSecurity/src/main/java/com/ee/security/ThumbIdReader.java" />
+        <option value="$PROJECT_DIR$/CollegeSecurity/src/test/java/com/ee/security/ReaderResponse.java" />
+        <option value="$PROJECT_DIR$/CollegeSecurity/src/main/java/com/ee/security/SecuritySystem.java" />
+        <option value="$PROJECT_DIR$/CollegeSecurity/src/main/java/com/thirdparty/security/ReaderResponse.java" />
+        <option value="$PROJECT_DIR$/CollegeSecurity/src/main/java/com/college/security/DataStore.java" />
+        <option value="$PROJECT_DIR$/CollegeSecurity/src/main/java/com/college/security/CollegeDataStore.java" />
+        <option value="$PROJECT_DIR$/CollegeSecurity/src/main/java/com/ee/security/Authenticator.java" />
+        <option value="$PROJECT_DIR$/CollegeSecurity/src/test/java/com/ee/security/SecuritySystemSpecs.java" />
+        <option value="$PROJECT_DIR$/CollegeSecurity/src/main/java/com/thirdparty/security/Role.java" />
+        <option value="$PROJECT_DIR$/CollegeSecurity/src/test/java/com/ee/security/AuthenticatorSpecs.java" />
       </list>
     </option>
   </component>
@@ -151,7 +175,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -169,7 +193,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -181,6 +205,146 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning@beach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning@beach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SchoolSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning@beach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SchoolSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning@beach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SchoolSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning@beach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CollegeSecurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning@beach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CollegeSecurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning@beach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CollegeSecurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning@beach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CollegeSecurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="security" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Default" />
         <subPane subId="Project Files">
@@ -190,14 +354,76 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning@beach" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="SchoolSystem">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="SchoolSystem">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="SchoolSystem">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="SchoolSystem">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="All">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="SchoolSystem">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="SchoolSystem">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="SchoolSystem">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="SchoolSystem">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -210,22 +436,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning@beach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SchoolSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning@beach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SchoolSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.ee.school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_directory_selection" value="$PROJECT_DIR$/NewMathWorks/src" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/CollegeSecurity/src/main/java/com/ee/security" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TicTacToeGame" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -233,9 +483,9 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -245,25 +495,61 @@
       <recent name="C:\Users\Shantanu\IdeaProjects\learning@beach" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.thirdparty.security" />
+      <recent name="com.ee.security" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ee.security" />
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Shantanu\IdeaProjects\learning@beach" />
       <recent name="C:\Users\Shantanu\IdeaProjects\learning@beach\NewMathWorks\src" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
   </component>
-  <component name="RunManager" selected="JUnit.addSpec.itTestsAddition">
-    <configuration default="false" name="FilterSpec.itTestsOdds" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="learning@beach" />
+  <component name="RunManager" selected="JUnit.All in CollegeSecurity">
+    <configuration default="false" name="SecuritySystemSpecs" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ee.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="CollegeSecurity" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FilterSpec" />
-      <option name="METHOD_NAME" value="itTestsOdds" />
+      <option name="PACKAGE_NAME" value="com.ee.security" />
+      <option name="MAIN_CLASS_NAME" value="com.ee.security.SecuritySystemSpecs" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AuthenticatorSpecs.itWillAuthenticateStudentToOpenStudentDoor" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ee.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="CollegeSecurity" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ee.security" />
+      <option name="MAIN_CLASS_NAME" value="com.ee.security.AuthenticatorSpecs" />
+      <option name="METHOD_NAME" value="itWillAuthenticateStudentToOpenStudentDoor" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -279,15 +565,20 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="FilterSpec.itTestsRanges" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="learning@beach" />
+    <configuration default="false" name="AuthenticatorSpecs" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ee.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="CollegeSecurity" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FilterSpec" />
-      <option name="METHOD_NAME" value="itTestsRanges" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.ee.security" />
+      <option name="MAIN_CLASS_NAME" value="com.ee.security.AuthenticatorSpecs" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -302,14 +593,19 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="FilterSpec.itTestsOddsAndPrimes" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="learning@beach" />
+    <configuration default="false" name="AuthenticatorSpecs.itWillAuthenticateTeacherToOpenStudentDoor" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ee.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="CollegeSecurity" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FilterSpec" />
-      <option name="METHOD_NAME" value="itTestsOddsAndPrimes" />
+      <option name="PACKAGE_NAME" value="com.ee.security" />
+      <option name="MAIN_CLASS_NAME" value="com.ee.security.AuthenticatorSpecs" />
+      <option name="METHOD_NAME" value="itWillAuthenticateTeacherToOpenStudentDoor" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -321,42 +617,25 @@
       </option>
       <envs />
       <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="FilterSpec.itTestsRangesAndOddsAndPrimes" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="All in CollegeSecurity" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="learning@beach" />
+      <module name="CollegeSecurity" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FilterSpec" />
-      <option name="METHOD_NAME" value="itTestsRangesAndOddsAndPrimes" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="addSpec.itTestsAddition" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="Sample" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="addSpec" />
-      <option name="METHOD_NAME" value="itTestsAddition" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -385,19 +664,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -424,6 +690,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -481,12 +760,21 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.GameLauncher" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FilterSpec.itTestsOdds" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.FilterSpec.itTestsRanges" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FilterSpec.itTestsOddsAndPrimes" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FilterSpec.itTestsRangesAndOddsAndPrimes" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.addSpec.itTestsAddition" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SecuritySystemSpecs" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.AuthenticatorSpecs.itWillAuthenticateStudentToOpenStudentDoor" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.AuthenticatorSpecs" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.AuthenticatorSpecs.itWillAuthenticateTeacherToOpenStudentDoor" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.All in CollegeSecurity" />
     </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in CollegeSecurity" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.AuthenticatorSpecs" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.AuthenticatorSpecs.itWillAuthenticateTeacherToOpenStudentDoor" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AuthenticatorSpecs.itWillAuthenticateStudentToOpenStudentDoor" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SecuritySystemSpecs" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -521,15 +809,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24942264" sideWeight="0.6701389" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39937598" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5003849" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -540,14 +828,14 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17121212" sideWeight="0.67171717" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.49422634" order="2" side_tool="false" content_ui="tabs" x="500" y="173" width="778" height="518" />
-      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28787878" sideWeight="0.65522623" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34384385" sideWeight="0.49422634" order="2" side_tool="false" content_ui="tabs" x="500" y="173" width="778" height="518" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917318" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32761312" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -645,101 +933,103 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MathWorks/test/MathWorksSpec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="12" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DailyAdviceClient/src/DailyAdviceClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="751" selection-end="751" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DailyAdviceClient/src/DailyAdviceServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="5" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FunnelTest/src/com/ee/mathworks/Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="958" selection-end="958" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="41" column="0" selection-start="958" selection-end="958" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MathWorks/test/MathWorksSpec.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="12" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
+        <state line="37" column="0" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FunnelTest/src/com/ee/mathworks/conditions/Condition.java">
+    <entry file="file://$PROJECT_DIR$/SchoolSystem/src/main/java/com/ee/school/School.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" />
+        <state line="26" column="20" selection-start="660" selection-end="660" vertical-scroll-proportion="0.33168316" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FunnelTest/src/com/ee/mathworks/conditions/Prime.java">
+    <entry file="file://$PROJECT_DIR$/SchoolSystem/src/test/java/com/ee/school/DivisionSpecs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="60" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" />
+        <state line="60" column="0" selection-start="1438" selection-end="1438" vertical-scroll-proportion="0.9158416" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewMathWorks/src/Rule.java">
+    <entry file="file://$PROJECT_DIR$/SchoolSystem/src/test/java/com/ee/school/StandardSpecs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="39" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" />
+        <state line="16" column="13" selection-start="377" selection-end="411" vertical-scroll-proportion="0.21039604" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FunnelTest/test/com/ee/mathworks/NumbersSpec.java">
+    <entry file="file://$PROJECT_DIR$/CollegeSecurity/src/main/java/com/thirdparty/security/ThumbIdReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="84" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" />
+        <state line="5" column="34" selection-start="124" selection-end="124" vertical-scroll-proportion="0.13821138" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewMathWorks/test/FilterSpec.java">
+    <entry file="file://$PROJECT_DIR$/CollegeSecurity/src/main/java/com/thirdparty/security/IdReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="42" selection-start="401" selection-end="401" vertical-scroll-proportion="0.49097472" />
+        <state line="4" column="25" selection-start="66" selection-end="80" vertical-scroll-proportion="0.110569105" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewHighlighterStories/src/NewHighlighterStories.java">
+    <entry file="file://$PROJECT_DIR$/CollegeSecurity/src/main/java/com/thirdparty/security/ReaderResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="45" selection-start="1784" selection-end="1784" vertical-scroll-proportion="0.52490884" />
+        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewHighlighterStories/src/Lines.java">
+    <entry file="file://$PROJECT_DIR$/CollegeSecurity/src/main/java/com/college/security/CollegeDataStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="73" selection-start="536" selection-end="536" vertical-scroll-proportion="0.47509113" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DailyAdviceClient/src/DailyAdviceClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="751" selection-end="751" vertical-scroll-proportion="0.0">
+        <state line="7" column="19" selection-start="197" selection-end="197" vertical-scroll-proportion="0.19349593">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DailyAdviceClient/src/DailyAdviceServer.java">
+    <entry file="file://$PROJECT_DIR$/CollegeSecurity/src/test/java/com/ee/security/SecuritySystemSpecs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="5" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.0">
+        <state line="41" column="94" selection-start="1171" selection-end="1175" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FunnelTest/src/com/ee/mathworks/Numbers.java">
+    <entry file="file://$PROJECT_DIR$/CollegeSecurity/src/main/java/com/thirdparty/security/Role.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="958" selection-end="958" vertical-scroll-proportion="0.0">
+        <state line="6" column="22" selection-start="89" selection-end="89" vertical-scroll-proportion="0.25888324">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MathWorks/test/MathWorksSpec.java">
+    <entry file="file://$PROJECT_DIR$/CollegeSecurity/src/main/java/com/college/security/DataStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="131" selection-start="805" selection-end="805" vertical-scroll-proportion="0.25757575">
+        <state line="4" column="17" selection-start="86" selection-end="86" vertical-scroll-proportion="0.17258883">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CollegeSecurity/src/main/java/com/ee/security/SecuritySystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CollegeSecurity/src/main/java/com/ee/security/Authenticator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SchoolSystem/src/test/java/com/ee/school/SchoolSpecs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="68" selection-start="569" selection-end="569" vertical-scroll-proportion="0.39464286">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CollegeSecurity/src/test/java/com/ee/security/AuthenticatorSpecs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="14" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.58928573">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -796,7 +1086,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>MathWorks</last-edited>
+          <last-edited>CollegeSecurity</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,0 +1,13 @@
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignallingSpecs\bin\Debug\TrainSignallingSpecs.dll
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignallingSpecs\bin\Debug\TrainSignallingSpecs.pdb
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignallingSpecs\bin\Debug\nunit-console-runner.dll
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignallingSpecs\bin\Debug\nunit.core.dll
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignallingSpecs\bin\Debug\nunit.core.interfaces.dll
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignallingSpecs\bin\Debug\nunit.framework.dll
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignallingSpecs\bin\Debug\nunit.util.dll
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignallingSpecs\bin\Debug\Rhino.Mocks.dll
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignallingSpecs\bin\Debug\TrainSignalling.dll
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignallingSpecs\bin\Debug\TrainSignalling.pdb
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignallingSpecs\obj\Debug\TrainSignallingSpecs.csprojResolveAssemblyReference.cache
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignallingSpecs\obj\Debug\TrainSignallingSpecs.dll
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignallingSpecs\obj\Debug\TrainSignallingSpecs.pdb

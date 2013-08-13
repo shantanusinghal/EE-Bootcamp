@@ -13,10 +13,9 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/bin" />
-    <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="jdk" jdkName="1.6" jdkType="JavaSDK" />
@@ -30,45 +29,20 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="fest-assert-1.4.jar">
+      <library>
         <CLASSES>
-          <root url="file://C:/Users/mrugen/Downloads/fest-assert-1.4/fest-assert-1.4/fest-assert-1.4.jar" />
+          <root url="jar://$MODULE_DIR$/lib/mockito/mockito-all/1.9.0/mockito-all-1.9.0.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/lib/mockito/mockito-all/1.9.0/mockito-all-1.9.0.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="fest-assert-1.4-javadoc.jar">
+      <library>
         <CLASSES>
-          <root url="file://C:/Users/mrugen/Downloads/fest-assert-1.4/fest-assert-1.4/fest-assert-1.4-javadoc.jar" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="fest-assert-1.4-sources.jar">
-        <CLASSES>
-          <root url="file://C:/Users/mrugen/Downloads/fest-assert-1.4/fest-assert-1.4/fest-assert-1.4-sources.jar" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="fest-util-1.1.6.jar">
-        <CLASSES>
-          <root url="file://C:/Users/mrugen/Downloads/fest-assert-1.4/fest-util-1.1.6.jar" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="mockito-all-1.8.5.jar">
-        <CLASSES>
-          <root url="file://C:/Users/mrugen/Downloads/mockito-all-1.8.5.jar" />
+          <root url="jar://$MODULE_DIR$/lib/fest-assert-1.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

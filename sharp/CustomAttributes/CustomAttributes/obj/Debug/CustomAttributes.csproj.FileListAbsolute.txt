@@ -1,0 +1,5 @@
+C:\workspaces\grepo\sharp\CustomAttributes\CustomAttributes\bin\Debug\CustomAttributes.pdb
+C:\workspaces\grepo\sharp\CustomAttributes\CustomAttributes\obj\Debug\CustomAttributes.csprojResolveAssemblyReference.cache
+C:\workspaces\grepo\sharp\CustomAttributes\CustomAttributes\obj\Debug\CustomAttributes.pdb
+C:\workspaces\grepo\sharp\CustomAttributes\CustomAttributes\bin\Debug\CustomAttributes.exe
+C:\workspaces\grepo\sharp\CustomAttributes\CustomAttributes\obj\Debug\CustomAttributes.exe

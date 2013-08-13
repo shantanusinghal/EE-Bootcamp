@@ -18,3 +18,16 @@ C:\workspaces\sharp\MathWorksSpecs\MathWorksSpecs\obj\Debug\MathWorksSpecs.cspro
 C:\workspaces\sharp\MathWorksSpecs\MathWorksSpecs\obj\Debug\MathWorksSpecs.dll
 C:\workspaces\sharp\MathWorksSpecs\MathWorksSpecs\obj\Debug\MathWorksSpecs.pdb
 C:\workspaces\sharp\MathWorksSpecs\MathWorksSpecs\bin\Debug\nunit.framework.dll
+C:\workspaces\grepo\sharp\MathWorksSpecs\MathWorksSpecs\bin\Debug\MathWorksSpecs.dll
+C:\workspaces\grepo\sharp\MathWorksSpecs\MathWorksSpecs\bin\Debug\MathWorksSpecs.pdb
+C:\workspaces\grepo\sharp\MathWorksSpecs\MathWorksSpecs\bin\Debug\MathWorks.dll
+C:\workspaces\grepo\sharp\MathWorksSpecs\MathWorksSpecs\bin\Debug\nunit-console-runner.dll
+C:\workspaces\grepo\sharp\MathWorksSpecs\MathWorksSpecs\bin\Debug\nunit.core.dll
+C:\workspaces\grepo\sharp\MathWorksSpecs\MathWorksSpecs\bin\Debug\nunit.core.interfaces.dll
+C:\workspaces\grepo\sharp\MathWorksSpecs\MathWorksSpecs\bin\Debug\nunit.framework.dll
+C:\workspaces\grepo\sharp\MathWorksSpecs\MathWorksSpecs\bin\Debug\nunit.util.dll
+C:\workspaces\grepo\sharp\MathWorksSpecs\MathWorksSpecs\bin\Debug\Rhino.Mocks.dll
+C:\workspaces\grepo\sharp\MathWorksSpecs\MathWorksSpecs\bin\Debug\MathWorks.pdb
+C:\workspaces\grepo\sharp\MathWorksSpecs\MathWorksSpecs\obj\Debug\MathWorksSpecs.csprojResolveAssemblyReference.cache
+C:\workspaces\grepo\sharp\MathWorksSpecs\MathWorksSpecs\obj\Debug\MathWorksSpecs.dll
+C:\workspaces\grepo\sharp\MathWorksSpecs\MathWorksSpecs\obj\Debug\MathWorksSpecs.pdb

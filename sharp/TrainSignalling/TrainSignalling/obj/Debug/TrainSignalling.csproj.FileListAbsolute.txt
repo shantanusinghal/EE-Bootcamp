@@ -1,0 +1,5 @@
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignalling\bin\Debug\TrainSignalling.dll
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignalling\bin\Debug\TrainSignalling.pdb
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignalling\obj\Debug\TrainSignalling.csprojResolveAssemblyReference.cache
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignalling\obj\Debug\TrainSignalling.dll
+C:\workspaces\grepo\sharp\TrainSignalling\TrainSignalling\obj\Debug\TrainSignalling.pdb

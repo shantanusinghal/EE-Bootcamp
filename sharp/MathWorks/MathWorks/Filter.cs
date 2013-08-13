@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-
 namespace MathWorks
 {
     public delegate bool Predicate(int item);
+    public delegate List<int> Selector(ThatAre condition, IList<int> inList);
 
     public enum ThatAre
     {
@@ -19,125 +18,68 @@ namespace MathWorks
     {
         public Predicate IsEven;
         public Predicate IsOdd;
-        public Func<int, int, bool> Check;
         public Predicate IsPrime;
-        private IDictionary<ThatAre, Predicate> predicates = new Dictionary<ThatAre, Predicate>();
-
-        private IList<int> AllPrimes = new List<int>() {2,3,5,7,9}; 
+        public Selector NumberSelector;
+        public Func<int, int, bool> Check;
+        private IDictionary<ThatAre, Predicate> predicateFor = new Dictionary<ThatAre, Predicate>();
 
         public Filter()
         {
-            Check = (x, y) => (y != 0) && ((y == 1) || (x % y != 0 && Check(x, y - 1)));
-            IsEven = x => x % 2 == 0;
             IsOdd = x => !IsEven(x);
-            IsPrime = x => Check(x, x/2);
-            predicates.Add(ThatAre.Even, IsEven);
-            predicates.Add(ThatAre.Odd, IsOdd);
-            predicates.Add(ThatAre.Prime, IsPrime);
+            IsEven = x => x % 2 == 0;
+            IsPrime = x => Check(x, x / 2);
+            Check = (x, y) => (y != 0) && ((y == 1) || (x % y != 0 && Check(x, y - 1)));
+            predicateFor.Add(ThatAre.Odd, IsOdd);
+            predicateFor.Add(ThatAre.Even, IsEven);
+            predicateFor.Add(ThatAre.Prime, IsPrime);
+            NumberSelector = (ThatAre condition, IList<int> inList) => inList.Where(item => predicateFor[condition](item)).ToList();
         }
 
-        public IList<int> SelectEven(IList<int> numbers, ThatAre condition)
+        public IList<int> Select(List<int> numbers, params ThatAre[] conditions)
         {
-            return Select(numbers, condition);
-        }
-
-        public IList<int> SelectOdd(List<int> numbers, ThatAre condition)
-        {
-            return Select(numbers, condition);
-        }
-
-        public IList<int> Select(IList<int> numbers, params ThatAre[] conditions)
-        {
-//            var enumerable = from number in numbers
-//                             from condition in conditions
-//                             where predicates[condition](number)
-//                             select number;
-
-            IList<int> result = new List<int>();
-            foreach (var condition in conditions)
-            {
-                foreach (var number in numbers)
-                {
-                    if (predicates[condition](number))
-                    {
-                        result.Add(number);
-                    }
-                }
-                numbers = new List<int>(result);
-            }
-
-//            IList<int> result = new List<int>();
-//            bool flag = true;
-//            foreach (var number in numbers)
-//            {
-//                flag = true;
-//                foreach (var condition in conditions)
-//                {
-//                    if (!predicates[condition](number))
-//                    {
-//                        flag = false;
-//                    }
-//                }
-//                if(flag)
-//                    result.Add(number);
-//            }
-            return numbers;
+//            IsPrime.GetInvocationList()
+            return conditions.Aggregate(numbers, (currentList, condition) => NumberSelector(condition, currentList));
         }
     }
 }
 
-
 /*
-  public class Filter
+ * 
+ * 
+ * 
+ * Predicate isPrime = x => (x >= 2) && Enumerable.Range(2, x - 2).All(f => x%f != 0);
+ * 
+ * 
+ public class Filter
     {
         public Predicate IsEven;
         public Predicate IsOdd;
-        public Func<int, int, bool> Check;
         public Predicate IsPrime;
+        public Selector NumberSelector;
+        public Func<int, int, bool> Check;
         private IDictionary<ThatAre, Predicate> predicates = new Dictionary<ThatAre, Predicate>();
-
-        private IList<int> AllPrimes = new List<int>() {2,3,5,7,9}; 
 
         public Filter()
         {
-            Check = (x, y) => (y != 0) && ((y == 1) || (x % y != 0 && Check(x, y - 1)));
-            IsEven = x => x % 2 == 0;
             IsOdd = x => !IsEven(x);
+            IsEven = x => x % 2 == 0;
             IsPrime = x => Check(x, x/2);
-            predicates.Add(ThatAre.Even, IsEven);
+            Check = (x, y) => (y != 0) && ((y == 1) || (x % y != 0 && Check(x, y - 1)));
+//            Predicate isPrime = x => (x >= 2) && Enumerable.Range(2, x - 2).All(f => x%f != 0);
+            
             predicates.Add(ThatAre.Odd, IsOdd);
+            predicates.Add(ThatAre.Even, IsEven);
             predicates.Add(ThatAre.Prime, IsPrime);
+            NumberSelector = (ThatAre cond, ref List<int> list) => list = list.Where(item => predicates[cond](item)).ToList();
         }
 
-        public IList<int> SelectEven(IList<int> numbers, ThatAre condition)
+        public IList<int> Select(List<int> numbers, params ThatAre[] conditions)
         {
-            return Select(numbers, condition);
+            conditions.ToList().ForEach(condition => NumberSelector(condition, ref numbers));
+            return numbers;
         }
+    }
+ * 
+ * //            conditions.Aggregate(condition => NumberSelector(condition, ref numbers));
 
-        public IList<int> SelectOdd(List<int> numbers, ThatAre condition)
-        {
-            return Select(numbers, condition);
-        }
-
-        public IList<int> Select(IList<int> numbers, params ThatAre[] conditions)
-        {
-            IList<int> result = new List<int>();
-
-
-
-
-            foreach (var number in numbers)
-            {
-                foreach (var condition in conditions)
-                {
-                    if (predicates[condition](number))
-                    {
-                        result.Add(number);
-                    }
-                }
-            }
-            return result;
-        }
-    } 
  */
-

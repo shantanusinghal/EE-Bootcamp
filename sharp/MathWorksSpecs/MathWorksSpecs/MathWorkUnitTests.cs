@@ -17,10 +17,10 @@ namespace MathWorksSpecs
         public void ItSelectsEvenNumbers()
         {
             //Given
-            IList<int> numbers = new List<int> {1,2,3,4,5};
+            var numbers = new List<int> {1,2,3,4,5};
             //When
             var filter = new Filter();
-            IList<int> result = filter.SelectEven(numbers, ThatAre.Even);
+            IList<int> result = filter.Select(numbers, ThatAre.Even);
             //Then
             IList<int> expected = new List<int> {2,4};
             Assert.AreEqual(expected, result);
@@ -33,7 +33,7 @@ namespace MathWorksSpecs
             var numbers = new List<int> {1, 2, 3, 4, 5};
             //When
             var filter = new Filter();
-            var result = filter.SelectOdd(numbers, ThatAre.Odd);
+            var result = filter.Select(numbers, ThatAre.Odd);
             //Then
             var expected = new List<int> {1, 3, 5};
             Assert.AreEqual(expected, result);
@@ -64,5 +64,20 @@ namespace MathWorksSpecs
             var expected = new List<int> { 3, 5 };
             Assert.AreEqual(expected, result);   
         }
+
+//        [Specs]
+//        public void ItSelectsNumbersInRange()
+//        {
+//            //Given
+//            var numbers = new List<int> { 1, 2, 3, 4, 5 };
+//            //When
+//            var filter = new Filter();
+//            var result = filter.Select(numbers, ThatAre.Even);
+//            //Then
+//            var expected = new List<int> { 3, 5 };
+//            Assert.AreEqual(expected, result);   
+//
+//        }
+
     }
 }

@@ -2,14 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adc251e0-8223-48d9-a514-813313e53d4a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MarsRover/MarsRover.iml" afterPath="$PROJECT_DIR$/MarsRover/MarsRover.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shell/Shell.iml" afterPath="$PROJECT_DIR$/Shell/Shell.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/lol/lol/lol/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/../sharp/lol/lol/lol/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/bin/Debug/MathWorks.dll" afterPath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/bin/Debug/MathWorks.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks/bin/Debug/MathWorks.dll" afterPath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks/bin/Debug/MathWorks.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks/obj/Debug/MathWorks.dll" afterPath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks/obj/Debug/MathWorks.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/bin/Debug/MathWorks.pdb" afterPath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/bin/Debug/MathWorks.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks/bin/Debug/MathWorks.pdb" afterPath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks/bin/Debug/MathWorks.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks/obj/Debug/MathWorks.pdb" afterPath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks/obj/Debug/MathWorks.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks.v11.suo" afterPath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks.v11.suo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/obj/Debug/MathWorksSpecs.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/obj/Debug/MathWorksSpecs.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/bin/Debug/MathWorksSpecs.dll" afterPath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/bin/Debug/MathWorksSpecs.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/obj/Debug/MathWorksSpecs.dll" afterPath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/obj/Debug/MathWorksSpecs.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/bin/Debug/MathWorksSpecs.pdb" afterPath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/bin/Debug/MathWorksSpecs.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/obj/Debug/MathWorksSpecs.pdb" afterPath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/obj/Debug/MathWorksSpecs.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/lol/lol/lol/obj/Release/lol.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../sharp/lol/lol/lol/obj/Release/lol.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/lol/lol/lol/bin/Release/lol.exe" afterPath="$PROJECT_DIR$/../sharp/lol/lol/lol/bin/Release/lol.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/lol/lol/lol/obj/Release/lol.exe" afterPath="$PROJECT_DIR$/../sharp/lol/lol/lol/obj/Release/lol.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/lol/lol/lol/bin/Release/lol.pdb" afterPath="$PROJECT_DIR$/../sharp/lol/lol/lol/bin/Release/lol.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/lol/lol/lol/obj/Release/lol.pdb" afterPath="$PROJECT_DIR$/../sharp/lol/lol/lol/obj/Release/lol.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/lol/lol/lol.v11.suo" afterPath="$PROJECT_DIR$/../sharp/lol/lol/lol.v11.suo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/lol/lol/lol/App.config" afterPath="$PROJECT_DIR$/../sharp/lol/lol/lol/App.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks/Filter.cs" afterPath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks/Filter.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/MathWorkUnitTests.cs" afterPath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/MathWorkUnitTests.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks/obj/Debug/MathWorks.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/../sharp/MathWorks/MathWorks/obj/Debug/MathWorks.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/obj/Debug/MathWorksSpecs.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/../sharp/MathWorksSpecs/MathWorksSpecs/obj/Debug/MathWorksSpecs.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/lol/lol/lol/Program.cs" afterPath="$PROJECT_DIR$/../sharp/lol/lol/lol/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/lol/lol/lol/obj/Release/lol.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/../sharp/lol/lol/lol/obj/Release/lol.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/lol/lol/lol/lol.csproj" afterPath="$PROJECT_DIR$/../sharp/lol/lol/lol/lol.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/lol/lol/lol/bin/Release/lol.exe.config" afterPath="$PROJECT_DIR$/../sharp/lol/lol/lol/bin/Release/lol.exe.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sharp/lol/lol/lol/bin/Release/lol.vshost.exe.config" afterPath="$PROJECT_DIR$/../sharp/lol/lol/lol/bin/Release/lol.vshost.exe.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DDD.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="adc251e0-8223-48d9-a514-813313e53d4a" time="1369682369626" ignored="false" />
+    <file path="/Dummy.txt" changelist="adc251e0-8223-48d9-a514-813313e53d4a" time="1373355429389" ignored="false" />
     <file path="$PROJECT_DIR$/MarsRover/pom.xml" changelist="adc251e0-8223-48d9-a514-813313e53d4a" time="1364458483651" ignored="false" />
     <file path="/SyntaxHighlighter.java" changelist="adc251e0-8223-48d9-a514-813313e53d4a" time="1364890831211" ignored="false" />
     <file path="/RuleSpecs.java" changelist="adc251e0-8223-48d9-a514-813313e53d4a" time="1364890874474" ignored="false" />
@@ -20,6 +49,8 @@
     <file path="/MerchantRepository.groovy" changelist="adc251e0-8223-48d9-a514-813313e53d4a" time="1366719848495" ignored="false" />
     <file path="C:/DigitalLoyalty/src/groovy/com/ee/dl/repository/MerchantRepository.groovy" changelist="adc251e0-8223-48d9-a514-813313e53d4a" time="1366719850349" ignored="false" />
     <file path="/MissionControl.java" changelist="adc251e0-8223-48d9-a514-813313e53d4a" time="1369414777480" ignored="false" />
+    <file path="/UsingInJava.java" changelist="adc251e0-8223-48d9-a514-813313e53d4a" time="1369808126405" ignored="false" />
+    <file path="/UsingResources.java" changelist="adc251e0-8223-48d9-a514-813313e53d4a" time="1369808206814" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,55 +109,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NumberSpecs.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MathWorks/src/test/java/ee/bootcamp/codingwithdhaval/NumberSpecs.java">
+      <file leaf-file-name="Resource.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MathWorks/src/main/java/ee/bootcamp/codingwithdhaval/Tmp/Resource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="114" column="0" selection-start="3072" selection-end="3072" vertical-scroll-proportion="0.0">
+            <state line="3" column="0" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MissionControlSpecs.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MarsRover/src/test/java/ee/bootcamp/isro/MissionControlSpecs.java">
+      <file leaf-file-name="UsingResources.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MathWorks/src/main/java/ee/bootcamp/codingwithdhaval/Tmp/UsingResources.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrientationSpecs.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MarsRover/src/test/java/ee/bootcamp/isro/OrientationSpecs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MissionControl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MarsRover/src/main/java/ee.bootcamp.isro/MissionControl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="4" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Orientation.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MarsRover/src/main/java/ee.bootcamp.isro/Orientation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="38" selection-start="397" selection-end="397" vertical-scroll-proportion="0.32550335">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RoverSpec.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MarsRover/src/test/java/ee/bootcamp/isro/RoverSpec.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+            <state line="9" column="64" selection-start="172" selection-end="172" vertical-scroll-proportion="0.24797407">
               <folding />
             </state>
           </provider>
@@ -159,10 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/MarsRover/src/main/java/ee.bootcamp.isro/Plateau.java" />
-        <option value="$PROJECT_DIR$/KeywordHighlighter-best/src/test/com/ee/highlight/HighlighterSpecs.groovy" />
-        <option value="$PROJECT_DIR$/KeywordHighlighter-good/src/main/java/com/ee/pairing/ColorRule.java" />
-        <option value="$PROJECT_DIR$/KeywordHighlighter-good/src/main/java/com/ee/pairing/Rule.java" />
         <option value="$PROJECT_DIR$/KeywordHighlighter-good/src/main/java/com/ee/pairing/NullRule.java" />
         <option value="$PROJECT_DIR$/KeywordHighlighter-good/src/main/java/com/ee/pairing/Style.java" />
         <option value="$PROJECT_DIR$/KeywordHighlighter-good/src/main/java/com/ee/pairing/SyntaxHighlighter.java" />
@@ -175,6 +166,10 @@
         <option value="$PROJECT_DIR$/KeywordHighlighter-best/src/main/com/ee/highlight/Case.java" />
         <option value="$PROJECT_DIR$/MarsRover/src/main/java/ee.bootcamp.isro/MissionControl.java" />
         <option value="$PROJECT_DIR$/MarsRover/src/main/java/ee.bootcamp.isro/Orientation.java" />
+        <option value="$PROJECT_DIR$/MathWorks/src/main/java/ee/bootcamp/codingwithdhaval/Tmp/java.java" />
+        <option value="$PROJECT_DIR$/MathWorks/src/main/java/ee/bootcamp/codingwithdhaval/Tmp/UsingInJava.java" />
+        <option value="$PROJECT_DIR$/MathWorks/src/main/java/ee/bootcamp/codingwithdhaval/Tmp/Resource.java" />
+        <option value="$PROJECT_DIR$/MathWorks/src/main/java/ee/bootcamp/codingwithdhaval/Tmp/UsingResources.java" />
       </list>
     </option>
   </component>
@@ -217,6 +212,20 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KeywordHighlighter-best" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -257,18 +266,84 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="DDD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="KeywordHighlighter-best" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+              <option name="myItemId" value="MathWorks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MathWorks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MathWorks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codingwithdhaval" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MathWorks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codingwithdhaval" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -276,8 +351,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
@@ -290,9 +366,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -317,6 +393,12 @@
         <option name="Make" enabled="false" />
       </method>
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <module name="" />
       <setting name="path" value="" />
@@ -326,31 +408,12 @@
       <setting name="debug" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -379,6 +442,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -461,7 +537,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-2" width="1378" height="754" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.49392098" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.67096776" order="3" side_tool="false" content_ui="tabs" />
@@ -479,7 +555,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24164134" sideWeight="0.670418" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24164134" sideWeight="0.670418" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.57272726" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -550,16 +626,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/KeywordHighlighter-best/src/main/com/ee/highlight/Property.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KeywordHighlighter-best/src/main/com/ee/highlight/Case.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="13" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/KeywordHighlighter-best/src/main/com/ee/highlight/Style.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="25" selection-start="645" selection-end="652" vertical-scroll-proportion="0.0" />
@@ -602,42 +668,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MathWorks/src/test/java/ee/bootcamp/codingwithdhaval/NumberSpecs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="0" selection-start="3072" selection-end="3072" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="114" column="0" selection-start="3072" selection-end="3072" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MarsRover/src/test/java/ee/bootcamp/isro/RoverSpec.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="10" column="13" selection-start="296" selection-end="296" vertical-scroll-proportion="0.02852349" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MarsRover/src/test/java/ee/bootcamp/isro/MissionControlSpecs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="13" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MarsRover/src/test/java/ee/bootcamp/isro/OrientationSpecs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="7" column="13" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MarsRover/src/main/java/ee.bootcamp.isro/MissionControl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="4" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="14" column="4" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MarsRover/src/main/java/ee.bootcamp.isro/Orientation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="38" selection-start="397" selection-end="397" vertical-scroll-proportion="0.32550335">
+        <state line="9" column="27" selection-start="322" selection-end="322" vertical-scroll-proportion="0.23993288" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathWorks/src/main/java/ee/bootcamp/codingwithdhaval/Tmp/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathWorks/src/main/java/ee/bootcamp/codingwithdhaval/Tmp/UsingResources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="64" selection-start="172" selection-end="172" vertical-scroll-proportion="0.24797407">
           <folding />
         </state>
       </provider>
@@ -700,6 +768,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

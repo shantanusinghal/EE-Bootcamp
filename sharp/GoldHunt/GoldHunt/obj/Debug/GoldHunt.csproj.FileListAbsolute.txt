@@ -1,0 +1,5 @@
+C:\workspaces\grepo\sharp\GoldHunt\GoldHunt\obj\Debug\GoldHunt.csprojResolveAssemblyReference.cache
+C:\workspaces\grepo\sharp\GoldHunt\GoldHunt\bin\Debug\GoldHunt.dll
+C:\workspaces\grepo\sharp\GoldHunt\GoldHunt\bin\Debug\GoldHunt.pdb
+C:\workspaces\grepo\sharp\GoldHunt\GoldHunt\obj\Debug\GoldHunt.dll
+C:\workspaces\grepo\sharp\GoldHunt\GoldHunt\obj\Debug\GoldHunt.pdb
